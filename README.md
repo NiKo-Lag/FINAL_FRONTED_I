@@ -4,7 +4,6 @@ Proyecto integrador de la materia de FRONT-END I de Digital House
 Participantes:
 
 🪪 Nicolás Ledesma 
-🪪 Tiffany Jordan
 
 Desarollo:
 
@@ -13,7 +12,7 @@ Nuestro desarrollo se consignó de la siguiente forma:
 🪧 Realizamos una estructuración principal de HTML de manera conjunta en una primer meeting para decidir la mejor manera de abordaje para ambos, partiendo de la premisa de desarrollo Desktop First/Mobile Last, posteriormente cada uno trabajo en local a partir de la clonación de un repositorio remoto en Github para realiar un merge en la branch principal.
 
 Nicolás Ledesma abordó el desarolló completo de la mediaquery de mobile hasta 1440px con CSS completo, por su parte Tiffany Jordan se dedicó al desarrollo de CSS de desktop (>1440px) y completó con detalles de organización. 
-
+}
 🧪 Hemos tenido que realizar varias maniobras en ciertas secciones de la landing page, por ejemplo, aplicar margenes negativos y z index en la versión mobile a la sección de las cards debibo a la agrupación conjunta de los divs en la versión de desktop, además de tener que crear clases especificas para ocultar otras, cómo también tener que obligar a colapsar a los elementos para que puedan caer de la forma que el figma lo representaba.
 
 En conclusión, hemos logrado un nivel de desarrollo que consideramos adecuado y conforme a la entrega. 🫡
@@ -55,6 +54,4 @@ https://www.figma.com/file/9vpyo8MNQzrZjleW2ZshuE/12-22-FE1?node-id=0%3A1&t=Em7m
 Descargá los recursos para trabajar en el proyecto
 Link a los recursos:
 https://drive.google.com/file/d/1kXvxSNZkRtmKw0ul1jdx6z-BX5hbcBea/view?usp=drive_link
-
- (Renombrar el proyecto con formato: Nombre-Apellido).
 
