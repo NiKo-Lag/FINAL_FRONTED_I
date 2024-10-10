@@ -11,7 +11,7 @@ Nuestro desarrollo se consignó de la siguiente forma:
 
 🪧 Realizamos una estructuración principal de HTML de manera conjunta en una primer meeting para decidir la mejor manera de abordaje para ambos, partiendo de la premisa de desarrollo Desktop First/Mobile Last, posteriormente cada uno trabajo en local a partir de la clonación de un repositorio remoto en Github para realiar un merge en la branch principal.
 
-Nicolás Ledesma abordó el desarolló completo de la mediaquery de mobile hasta 1440px con CSS completo, por su parte Tiffany Jordan se dedicó al desarrollo de CSS de desktop (>1440px) y completó con detalles de organización. 
+Abordé el desarolló completo de la mediaquery de mobile hasta 1440px con CSS completo, y además el desarrollo de CSS de desktop (>1440px)
 }
 🧪 Hemos tenido que realizar varias maniobras en ciertas secciones de la landing page, por ejemplo, aplicar margenes negativos y z index en la versión mobile a la sección de las cards debibo a la agrupación conjunta de los divs en la versión de desktop, además de tener que crear clases especificas para ocultar otras, cómo también tener que obligar a colapsar a los elementos para que puedan caer de la forma que el figma lo representaba.
 
